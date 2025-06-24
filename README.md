@@ -15,4 +15,6 @@ A portfolio of data analysis projects and dashboards by Ahmed Lawal.
  
 -	 Other Features: Further breakdown of products into categories i.e. Frozen, Ambient, Chilled & Non-Food. Some members have purchased smaller business that suppliers have data from, so I was required to aggregate the unit as part of the parent member.</p>
 
-Power BI Dashboard <a href='https://github.com/AhmedLawal1/data-analyst-portfolio/blob/main/Dashboard/Overview%20Page.png'> Overview Page</a>   <a href='https://github.com/AhmedLawal1/data-analyst-portfolio/blob/main/Dashboard/Ranking%20Page.png'> Product Ranking Page</a>
+Power BI Dashboard: 
+<a href='https://github.com/AhmedLawal1/data-analyst-portfolio/blob/main/Dashboard/Overview%20Page.png'> Overview Page</a>   
+<a href='https://github.com/AhmedLawal1/data-analyst-portfolio/blob/main/Dashboard/Ranking%20Page.png'> Product Ranking Page</a>
