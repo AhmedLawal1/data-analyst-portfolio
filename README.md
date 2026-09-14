@@ -55,8 +55,7 @@ Unbeknown to me The Head Of Finance had made his own predictions using Excel. Wi
   - Once confirmed I wrote up my SQL query and exported the report.</p>
 
 SQL Qurey:
-<a href='https://github.com/AhmedLawal1/data-analyst-portfolio/blob/main/Dashboard/Sales%20Report%20(SQL).png'> Page 1</a>
-<a href='https://github.com/AhmedLawal1/data-analyst-portfolio/blob/main/Dashboard/Sales%20Report%20(SQL)%202.png'> Page 2</a>
+<a href='https://github.com/AhmedLawal1/data-analyst-portfolio/blob/main/Dashboard/db_connect.py'> Page 1</a>
 
 Footnote: 
     Later on I plan to connect the server direct to Power BI, creating visuals and custom DAX measures for further insight and analysis.
