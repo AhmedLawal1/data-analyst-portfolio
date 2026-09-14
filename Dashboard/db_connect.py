@@ -6,10 +6,10 @@ import pyodbc
 def get_sales_data():
     conn = pyodbc.connect(
         "DRIVER={ODBC Driver 18 for SQL Server};"
-        "SERVER=BITREZ-ERP;" #Sever name
-        "DATABASE=livedb;"   #Database name
-        "UID=rolivedb;"      #User ID
-        "PWD=rolivedb;"      #Password
+        "SERVER=;" #Sever name
+        "DATABASE=;"   #Database name
+        "UID=;"      #User ID
+        "PWD=;"      #Password
         "TrustServerCertificate=yes;" #Trust Server Certificate
     )
 
