@@ -21,6 +21,27 @@ Power BI Dashboard:
 <a href='https://github.com/AhmedLawal1/data-analyst-portfolio/blob/main/Dashboard/Ranking%20Page.png'> Product Ranking Page</a>
 
 
+## Prediction Model Build
+<p>Project Objective
+
+  I was approached by the Head Of Finance to predict next years sales figures, identify trends, patterns and potential drops. The reason behind this is because this task is outsourced, then further worked on by the head of finance and presented to the board during Q3. </p>
+  
+<p>Process: 
+
+- Meeting with Head Of Finance. Find out if there are any serious changes happening in the next year that they may know i.e. a new a member in the group.
+- Gather sales data (at least past 3 years)
+- Do analysis such as "Seasonal Decompose", ADF Fuller Test, etc. To see the underlying pattern of the data.
+- Research prediction models that will perform best for each member. <p>
+
+This is the prediction model for one of the members in Jupiter Notebook:
+<a href='https://github.com/AhmedLawal1/data-analyst-portfolio/blob/main/Dashboard/Prediction%20Model(PD).ipynb'> Page 1</a>
+
+Outcome: 
+
+Unbeknown to me The Head Of Finance had made his own predictions using Excel. With the confirmation of the Head Of Finance my prediction was presented to the board. The reason was because my prediction picked up a steep decline in a member, and the figures given were closer to what had been agreed. 
+
+
+
 ## SQL Server Sales Report
 
 <p>Project Objective
@@ -37,6 +58,6 @@ SQL Qurey:
 <a href='https://github.com/AhmedLawal1/data-analyst-portfolio/blob/main/Dashboard/Sales%20Report%20(SQL).png'> Page 1</a>
 <a href='https://github.com/AhmedLawal1/data-analyst-portfolio/blob/main/Dashboard/Sales%20Report%20(SQL)%202.png'> Page 2</a>
 
-<p>Footnote: 
+Footnote: 
     Later on I plan to connect the server direct to Power BI, creating visuals and custom DAX measures for further insight and analysis.
     
