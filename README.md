@@ -1,6 +1,7 @@
 # Data-Analyst-Portfolio
 A portfolio of data analysis projects and dashboards by Ahmed Lawal.
 
+
 ## Power BI Product Dashboard
 
 <p>Project Objective
@@ -34,12 +35,11 @@ Power BI Dashboard:
 - Research prediction models that will perform best for each member. <p>
 
 This is the prediction model for one of the members in Jupiter Notebook:
-<a href='https://github.com/AhmedLawal1/data-analyst-portfolio/blob/main/Dashboard/Prediction%20Model(PD).ipynb'> Page 1</a>
+<a href='https://github.com/AhmedLawal1/data-analyst-portfolio/blob/main/Dashboard/Prediction%20Model(PD).ipynb'> Model</a>
 
 Outcome: 
 
 Unbeknown to me The Head Of Finance had made his own predictions using Excel. With the confirmation of the Head Of Finance my prediction was presented to the board. The reason was because my prediction picked up a steep decline in a member, and the figures given were closer to what had been agreed. 
-
 
 
 ## SQL Server Sales Report
