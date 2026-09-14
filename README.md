@@ -1,4 +1,4 @@
-# data-analyst-portfolio
+# Data-Analyst-Portfolio
 A portfolio of data analysis projects and dashboards by Ahmed Lawal.
 
 ## Power BI Product Dashboard
@@ -19,3 +19,24 @@ Power BI Dashboard:
 
 <a href='https://github.com/AhmedLawal1/data-analyst-portfolio/blob/main/Dashboard/Overview%20Page.png'> Overview Page</a>   
 <a href='https://github.com/AhmedLawal1/data-analyst-portfolio/blob/main/Dashboard/Ranking%20Page.png'> Product Ranking Page</a>
+
+
+## SQL Server Sales Report
+
+<p>Project Objective
+
+  Create a new sales report directly from the businesses server as previous sales report was pulling from the incorrect source </p>
+
+<p>Process & Requirements
+
+  - My first step was to set a meeting with our server/database provider and understand how the data is collected and stored.
+  - I then started looking into each table using Microsoft SQL Server Management Studio. At this point I brought in the head of sales to validate the data I plan to use as my source.
+  - Once confirmed I wrote up my SQL query and exported the report.</p>
+
+SQL Qurey:
+<a href='https://github.com/AhmedLawal1/data-analyst-portfolio/blob/main/Dashboard/Sales%20Report%20(SQL).png'> Page 1</a>
+<a href='https://github.com/AhmedLawal1/data-analyst-portfolio/blob/main/Dashboard/Sales%20Report%20(SQL)%202.png'> Page 2</a>
+
+<p>Footnote: 
+    Later on I plan to connect the server direct to Power BI, creating visuals and custom DAX measures for further insight and analysis.
+    
